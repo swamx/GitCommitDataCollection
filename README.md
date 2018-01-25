@@ -1,7 +1,7 @@
 # GitCommitDataCollection
 The following repository contains submission made as a part of AMOD Big Data Course at Trent University.
 
-#Git Commit Collection Project by Shweta Pathak, Puvendra Kumar Mishra, and Devang Swami
+Git Commit Collection Project by Shweta Pathak, Puvendra Kumar Mishra, and Devang Swami
 
 The project aims to collect commits made on a GITHUB repository and be able to store those commits for analysis. This allows dataset users to analyse the information of message and conclude the importance of a commit. For a large scale Open Source project thousands of commits are made everyday, the central body adopting certain branches for merge into master branch would want to view which branch has novel implementations that have been commited. The term novel implementation includes changes in software such as code optimizations, introduction of new features, debugging, error corrections, and other minor or major changes. A single commit has lots of information such as timestamp, owner of the repostiory, commiter information, and more. Most imortant information is the commit message which is a text message from commiter regarding changes he/she made. The messages are clear texts with details, hence there is no sentiment or sarcasm to detect. Thus, it becomes clear that the only relevant details in the commit message are terms and not the organization of the terms.
 
